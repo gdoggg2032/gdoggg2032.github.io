@@ -1,4 +1,4 @@
-{"data":[ {
+[ {
 "category": "John",
 	"segments": [ {
 		"start": 7,
@@ -234,4 +234,4 @@
 			"color": "#FFE4C4",
 			"task": "Task #4"
 		} ]
-} ]}
+} ]
